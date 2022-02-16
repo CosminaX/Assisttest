@@ -1,0 +1,13 @@
+.footerpg{
+    background-color: #ededed;
+    height: 40px;
+    width: 100%;
+    color: #515356;
+}
+.descr{
+   float:right ;
+}
+.nume{
+    float: left;
+    margin-left:240px;
+}

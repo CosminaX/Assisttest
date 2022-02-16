@@ -1,0 +1,12 @@
+.formcontact{
+    margin-left:240px;
+
+
+}
+.lista{
+    display: table-caption;
+}
+.lista .buton{
+    float: right;
+    justify-content: right;
+}
